@@ -1,2 +1,2 @@
 # PSDSKD4.0
-Yes
+In these Session I Learn about SQL CODING WITH Sir Indra
